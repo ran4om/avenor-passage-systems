@@ -2,6 +2,9 @@
 
 Independent React 19 and Vite 8 showcase site for a fictional Zürich mobility-planning studio.
 
+- **Live production:** https://avenor-passage-systems.vercel.app
+- **GitHub:** https://github.com/ran4om/avenor-passage-systems
+
 ## Run locally
 
 ```bash
